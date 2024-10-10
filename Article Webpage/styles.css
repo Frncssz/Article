@@ -275,6 +275,7 @@ p {
 /* Footer */
 footer {
     text-align: center;
+    font-size: 15px;
     padding: 20px;
     background-color: #fb7e02;
     color: white;
