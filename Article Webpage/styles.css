@@ -66,7 +66,7 @@ nav {
 .nav-links a:hover {
     color: #cd4400;
 }
-/* Sign Up section styles */
+/* Sign Up section */
 .signup-section {
     display: flex;
     justify-content: center;
@@ -137,7 +137,7 @@ nav {
     background-color: #d0451b;
 }
 
-/* Responsive input field adjustments */
+
 @media (max-width: 600px) {
     .signup-container {
         padding: 30px;
